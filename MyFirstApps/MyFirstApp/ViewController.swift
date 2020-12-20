@@ -21,8 +21,5 @@ class ViewController: UIViewController {
     @IBAction func changeImg(_ sender: Any) {
         imageView.image = UIImage(named: "space_2")
     }
-    
-    
-    
 }
 
